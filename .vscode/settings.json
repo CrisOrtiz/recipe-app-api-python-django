@@ -1,6 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\CrisPC\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.pythonPath": "venv\\Scripts\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.flake8Enabled": false,
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "python.formatting.provider": "yapf"
 }
